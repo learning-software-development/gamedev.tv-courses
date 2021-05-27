@@ -7,7 +7,9 @@ These are all the [GameDev.tv][gamedevtv] online courses I completed to learn ne
 
 ## :beginner: Tutorials and Courses
 
-TODO
+1. :o: How To Get A Job In The Video Game Industry Online Course
+2. :o: Finish It! Motivation & Processes For Game Developers Course
+3. :o: Get Git Smart Course: Learn Git in Unity, SourceTree, GitHub
 
 ## :page_with_curl: License
 
