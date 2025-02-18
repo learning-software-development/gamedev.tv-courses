@@ -10,7 +10,7 @@ These are all the [GameDev.tv][gamedevtv] online courses I completed to learn ne
 ### Game Industry Courses
 
 1. :o: How To Get A Job In The Game Industry: Create a Winning Resume, Portfolio, LinkedIn Profile & More
-2. :o: Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev
+2. :heavy_check_mark: Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev
 3. :heavy_check_mark: Get Git Smart: Learn Git in Unity, SourceTree, GitHub
 4. :o: GameDev.tv Video Game Course Updates
 
